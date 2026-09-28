@@ -7,3 +7,4 @@ next-env.d.ts
 .env*
 .next-build/
 /2D2A7702.JPG
+.vercel
