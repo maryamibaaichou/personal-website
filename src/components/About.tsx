@@ -35,9 +35,9 @@ export function About() {
                 the discipline: data structures, algorithms, databases, operating systems and software architecture.
               </p>
               <p>
-                In 2026 I joined <span className="text-fg">Suncaper</span>, a big-data company in Chengdu, as a Big
-                Data Engineering Intern, working on flight-data analysis and a conversational search interface. The same
-                year I became a Research Assistant at the university&rsquo;s{" "}
+                In 2026 I completed a Big Data Engineering internship at <span className="text-fg">Suncaper</span>, a
+                big-data company in Chengdu, where I worked on flight-data analysis and a conversational search
+                interface. Today I&rsquo;m a Research Assistant at the university&rsquo;s{" "}
                 <span className="text-fg">Machine Intelligence Lab</span>, working on multi-agent AI. Between the two, I
                 learned to ask one question of every AI feature:{" "}
                 <span className="text-fg">how would we know if it&rsquo;s wrong?</span>
