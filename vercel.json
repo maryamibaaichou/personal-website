@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.maryamibaaichou.com" }],
+      "destination": "https://maryamibaaichou.com/:path*",
+      "permanent": true
+    }
+  ]
+}
