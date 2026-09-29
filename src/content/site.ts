@@ -5,7 +5,7 @@ export const site = {
   description:
     "Software engineering student and AI research assistant at Sichuan University, building at the intersection of AI, product, software and people.",
   email: "maryamibaaichou@gmail.com",
-  linkedin: "https://www.linkedin.com/in/maryam-ibaaichou",
+  linkedin: "https://www.linkedin.com/in/maryamibaaichou/",
   github: "https://github.com/maryamibaaichou",
 };
 

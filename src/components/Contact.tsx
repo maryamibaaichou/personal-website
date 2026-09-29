@@ -3,7 +3,7 @@ import { ArrowUpRight, GitHubIcon, LinkedInIcon, MailIcon } from "./icons";
 
 const channels = [
   { label: "Email", value: site.email, href: `mailto:${site.email}`, icon: MailIcon, external: false },
-  { label: "LinkedIn", value: "in/maryam-ibaaichou", href: site.linkedin, icon: LinkedInIcon, external: true },
+  { label: "LinkedIn", value: "in/maryamibaaichou", href: site.linkedin, icon: LinkedInIcon, external: true },
   { label: "GitHub", value: "maryamibaaichou", href: site.github, icon: GitHubIcon, external: true },
 ];
 
